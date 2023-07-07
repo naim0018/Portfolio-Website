@@ -1,0 +1,26 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* nav */
+
+.t-color{
+    color: #FD6E0A;
+}
+.navbar,.menu ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    font-size: 45px;
+    font-weight: 800;
+}
+.menu  ul li{
+    padding-right: 10px;
+    list-style: none;
+    
+}
+.menu li a{
+    text-decoration: none;
+}
